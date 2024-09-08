@@ -1,4 +1,4 @@
-ip: unbutn16版/20版本 ：
+ip: unbutn16版/20版本 
 
 ssh  chenq@172.16.148.130
 
