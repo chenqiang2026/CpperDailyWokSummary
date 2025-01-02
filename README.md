@@ -13,3 +13,84 @@ C /C++  知识
 [大端小端问题  ](https://blog.csdn.net/qq_23232637/article/details/136120999?spm=1001.2014.3001.5501)
 
 [IO多路复用的理解 ](https://blog.csdn.net/qq_23232637/article/details/135912540?spm=1001.2014.3001.5501)
+
+
+
+Posix API与网络协议栈的实现原理-V1
+
+
+
+1. TCP三次握手过程？
+2. TCP四次挥手过程？
+3. 为什么建立连接需要三次握手，而断开连接需要四次握手？
+
+4. TIME_WAIT状态持续时间及原因
+5. 超时重传和快速重传
+6. TCP首部长度，有哪些字段
+7. TCP在listen时的参数backlog的意义
+8. Accept发生在三次握手的哪一步？
+9. 三次握手过程中有哪些不安全性
+
+10.TCP与UDP的区别
+
+![111](/Users/roc/Desktop/111.png)
+
+
+
+![image-20250102152842660](/Users/roc/Library/Application Support/typora-user-images/image-20250102152842660.png)
+
+![image-20250102152907583](/Users/roc/Library/Application Support/typora-user-images/image-20250102152907583.png)
+
+
+
+![image-20250102152950144](/Users/roc/Library/Application Support/typora-user-images/image-20250102152950144.png)
+
+
+
+![image-20250102153037201](/Users/roc/Library/Application Support/typora-user-images/image-20250102153037201.png)
+
+
+
+![image-20250102153059550](/Users/roc/Library/Application Support/typora-user-images/image-20250102153059550.png)
+
+
+
+![image-20250102153115726](/Users/roc/Library/Application Support/typora-user-images/image-20250102153115726.png)
+
+![image-20250102153135600](/Users/roc/Library/Application Support/typora-user-images/image-20250102153135600.png)
+
+
+
+![image-20250102153149804](/Users/roc/Library/Application Support/typora-user-images/image-20250102153149804.png)
+
+
+
+![image-20250102153207849](/Users/roc/Library/Application Support/typora-user-images/image-20250102153207849.png)
+
+
+
+![image-20250102153232479](/Users/roc/Library/Application Support/typora-user-images/image-20250102153232479.png)
+
+![image-20250102153249204](/Users/roc/Library/Application Support/typora-user-images/image-20250102153249204.png)
+
+![image-20250102153329680](/Users/roc/Library/Application Support/typora-user-images/image-20250102153329680.png)
+
+![image-20250102153400609](/Users/roc/Library/Application Support/typora-user-images/image-20250102153400609.png)
+
+![image-20250102153426110](/Users/roc/Library/Application Support/typora-user-images/image-20250102153426110.png)
+
+
+
+![image-20250102153455857](/Users/roc/Library/Application Support/typora-user-images/image-20250102153455857.png)
+
+
+
+![image-20250102153514316](/Users/roc/Library/Application Support/typora-user-images/image-20250102153514316.png)
+
+
+
+![image-20250102153528790](/Users/roc/Library/Application Support/typora-user-images/image-20250102153528790.png)
+
+
+
+![image-20250102153545466](/Users/roc/Library/Application Support/typora-user-images/image-20250102153545466.png)
