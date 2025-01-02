@@ -43,30 +43,30 @@ Posix API与网络协议栈的实现原理-V1
 
 ![](img/posix-net-V1/5.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/6.png)
+![](img/posix-net-V1/6.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/7.png)
+![](img/posix-net-V1/7.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/8.png)
+![](img/posix-net-V1/8.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/9.png)
+![](img/posix-net-V1/9.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/10.png)
+![](img/posix-net-V1/10.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/11.png)
+![](img/posix-net-V1/11.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/12.png)
+![](img/posix-net-V1/12.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/13.png)
+![](img/posix-net-V1/13.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/14.png)
+![](img/posix-net-V1/14.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/15.png)
+![](img/posix-net-V1/15.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/15.png)
+![](img/posix-net-V1/15.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/16.png)
+![](img/posix-net-V1/16.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/17.png)
+![](img/posix-net-V1/17.png)
 
-![](/Users/roc/Desktop/posix-api/img/posix-net-V1/18.png)
+![](img/posix-net-V1/18.png)
