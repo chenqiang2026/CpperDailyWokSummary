@@ -29,9 +29,44 @@ Posix API与网络协议栈的实现原理-V1
 7. TCP在listen时的参数backlog的意义
 8. Accept发生在三次握手的哪一步？
 9. 三次握手过程中有哪些不安全性
-10.TCP与UDP的区别
+   10.TCP与UDP的区别
 
    
 
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/1.png)
 
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/2.png)
 
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/3.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/4.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/5.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/6.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/7.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/8.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/9.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/10.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/11.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/12.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/13.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/14.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/15.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/15.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/16.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/17.png)
+
+![](/Users/roc/Desktop/posix-api/img/posix-net-V1/18.png)
