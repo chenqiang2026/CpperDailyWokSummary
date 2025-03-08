@@ -84,3 +84,7 @@ Posix API与网络协议栈的实现原理-V1
 ![](img/posix-net-V1/17.png)
 
 ![](img/posix-net-V1/18.png)
+
+
+
+https://blog.csdn.net/gx19862005/article/details/48528235
