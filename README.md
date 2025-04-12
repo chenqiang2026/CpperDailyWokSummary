@@ -2,13 +2,16 @@
 
 一元机场 : https://xn--4gq62f52gdss.com/#/login
 
- 快枪手 :  https://www.88kqs.com/#/login (防失联 https://kqs.369.cyou )
+快枪手 :  https://www.88kqs.com/#/login (防失联 https://kqs.369.cyou )
 
 
 吾爱破解: https://www.52pojie.cn/
 
 V2EX = way to explore  : https://www.v2ex.com/
 
+stackoverflow : https://stackoverflow.com/questions
+gitlab : https://gitlab.com/
+gitee : https://gitee.com/
 
 
 [socket ,websocket,http关系详解](https://blog.csdn.net/qq_23232637/article/details/143312256?spm=1001.2014.3001.5501)
