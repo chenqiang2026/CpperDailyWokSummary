@@ -4,6 +4,10 @@
 
 快枪手 :  https://www.88kqs.com/#/login (防失联 https://kqs.369.cyou )
 
+
+谷歌专利 ： https://patents.google.com/
+
+
 reddit : https://www.reddit.com/
 
 stackoverflow : https://stackoverflow.com/questions
