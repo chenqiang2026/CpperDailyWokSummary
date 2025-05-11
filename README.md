@@ -10,7 +10,7 @@
 
 reddit : https://www.reddit.com/
 
-stackoverflow : https://stackoverflow.com/questions](https://stackoverflow.com/users/9275131/chenqiang2026
+stackoverflow : https://stackoverflow.com/users/9275131/chenqiang2026
 
 V2EX = way to explore  : https://www.v2ex.com/
 
