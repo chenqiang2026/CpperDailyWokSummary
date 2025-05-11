@@ -12,6 +12,8 @@ reddit : https://www.reddit.com/
 
 stackoverflow : https://stackoverflow.com/users/9275131/chenqiang2026
 
+CSDN : https://blog.csdn.net/qq_23232637?spm=1000.2115.3001.5343
+
 V2EX = way to explore  : https://www.v2ex.com/
 
 吾爱破解: https://www.52pojie.cn/
